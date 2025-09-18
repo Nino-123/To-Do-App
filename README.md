@@ -60,6 +60,7 @@ A simple To-Do application built with HTML, CSS, and JavaScript. Helps you keep 
 ---
 ## Project Structure
 
+```plaintext
 To-Do-App/
 ├── assets/            # images, icons, etc.
 ├── css/               # style sheets
