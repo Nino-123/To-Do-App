@@ -69,8 +69,3 @@ To-Do-App/
 │   └── app.js
 ├── index.html
 └── README.md
-
----
-
-
-
